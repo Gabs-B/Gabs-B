@@ -17,7 +17,7 @@
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/><img src="https://img.icons8.com/ios-filled/48/000000/sql.png"/>
-<img src="https://codeigniter.com/"/><img src="https://img.icons8.com/fluency/48/000000/postman-api.png"/>
+<img src="https://codeigniter.com/assets/icons/ci-logo.png"/><img src="https://img.icons8.com/fluency/48/000000/postman-api.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 
 
