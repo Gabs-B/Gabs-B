@@ -2,7 +2,7 @@
 
 <br>
 
-## ☕ Connect with me
+## ☕ About me
 
 Tengo sólidos conocimientos en **PHP** y sus frameworks **CodeIgniter** y **Laravel**, además de experiencia en **programación orientada a objetos (POO)**, **bases de datos** (MySQL, SQL Server), **APIs**, metodologías ágiles e integraciones.  
 
