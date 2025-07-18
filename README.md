@@ -6,7 +6,7 @@
 ## Poseo sólidos conocimientos en PHP y su framework Codeigniter y Laravel, así como en programación orientada a objetos (POO), bases de datos, APIs, metodologías 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")]([https://www.linkedin.com/in//](https://www.linkedin.com/in/jose-gabriel-belleza-calle-93466232b/))
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "José Gabriel Belleza Calle")](https://www.linkedin.com/in/jose-gabriel-belleza-calle-93466232b/)
 
 <br>
 
